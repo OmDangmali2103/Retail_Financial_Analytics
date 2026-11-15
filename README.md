@@ -30,7 +30,13 @@ Customer ID `999999` is the unknown/unassigned customer bucket. Its revenue rema
 
 ## Dashboard
 
-The `dashboard/` folder is currently empty; no Power BI report file was present in the supplied project archive.
+## Dashboard
+
+The Power BI report is available in:
+
+`dashboard/Retail_Financial_Analytics_Dashboard.pbix`
+
+Open the file using Microsoft Power BI Desktop to explore the financial and operational analytics report.
 
 
 ## Regenerated data checks
