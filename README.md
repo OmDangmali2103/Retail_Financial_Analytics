@@ -463,10 +463,10 @@ The current generated files were checked for unique order-line identifiers, dupl
 | Metric | Current scenario |
 |---|---:|
 | Merchandise COGS | 11.19M |
-| Gross profit | 8.20M |
-| Gross margin | 42.29% |
-| Outstanding receivables | 4.31M |
-| Overdue receivables | 3.15M |
+| Gross profit | 8.26M |
+| Gross margin | 42.47% |
+| Outstanding receivables | 4.34M |
+| Overdue receivables | 3.16M |
 | Estimated inventory value | 2.71M |
 
 All monetary amounts use the source dataset's currency convention without foreign-exchange conversion.
